@@ -1,0 +1,26 @@
+Dog	Cow	Cat	Horse 
+Donkey tiger Lion	Panther
+Leopard	Cheetah	Bear Elephant
+Polar bear	Turtle	Tortoise	Crocodile
+Rabbit	Porcupine	Hare	Hen
+Pigeon	Albatross	Crow	Fish
+Dolphin	Frog	Whale	Alligator
+Eagle	squirrel	Ostrich	Fox
+Goat	Jackal	Emu	Armadillo
+Eel	Goose	Arctic fox	Wolf
+Beagle	Gorilla	Chimpanzee	Monkey
+Beaver	Orangutan	Antelope	Bat
+Badger	Giraffe	Crab Panda
+Hamster	Cobra shark	Camel
+Hawk	Deer	Chameleon	Hippopotamus
+Jaguar	Chihuahua	Cobra	Ibex
+Lizard	Koala	Kangaroo	Iguana
+Llama	Chinchillas	Dodo	Jellyfish
+Rhinoceros	Hedgehog	Zebra	Possum
+Wombat	Bison	Bull	Buffalo
+Sheep	Meerkat	Mouse	Otter
+Sloth	Owl	Vulture	Flamingo
+Racoon	Mole	Duck	Swan
+Lynx lizard	Elk	Boar
+Lemur	Mule	Baboon	Mammoth
+Blue whale	Rat	Snake	Peacock
